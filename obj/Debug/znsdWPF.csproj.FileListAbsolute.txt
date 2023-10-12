@@ -1,0 +1,16 @@
+D:\workspace\znsdWPF\bin\Debug\znsdWPF.exe.config
+D:\workspace\znsdWPF\bin\Debug\znsdWPF.exe
+D:\workspace\znsdWPF\bin\Debug\znsdWPF.pdb
+D:\workspace\znsdWPF\obj\Debug\znsdWPF.csproj.AssemblyReference.cache
+D:\workspace\znsdWPF\obj\Debug\znsdWPF.csproj.SuggestedBindingRedirects.cache
+D:\workspace\znsdWPF\obj\Debug\MainWindow.g.cs
+D:\workspace\znsdWPF\obj\Debug\App.g.cs
+D:\workspace\znsdWPF\obj\Debug\znsdWPF_MarkupCompile.cache
+D:\workspace\znsdWPF\obj\Debug\znsdWPF_MarkupCompile.lref
+D:\workspace\znsdWPF\obj\Debug\MainWindow.baml
+D:\workspace\znsdWPF\obj\Debug\znsdWPF.g.resources
+D:\workspace\znsdWPF\obj\Debug\znsdWPF.Properties.Resources.resources
+D:\workspace\znsdWPF\obj\Debug\znsdWPF.csproj.GenerateResource.cache
+D:\workspace\znsdWPF\obj\Debug\znsdWPF.csproj.CoreCompileInputs.cache
+D:\workspace\znsdWPF\obj\Debug\znsdWPF.exe
+D:\workspace\znsdWPF\obj\Debug\znsdWPF.pdb
